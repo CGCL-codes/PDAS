@@ -5,7 +5,7 @@ We divide the whole search procedure of neural networks into two stages to appro
 
 stage 1: python train_search_param1.py --change --data /path to your data --save log_path
 
-stage 2: python train_search_param1.py --change --data /path to your data --save log_path
+stage 2: python train_search_param2.py --change --data /path to your data --save log_path
 
 stage 1 (for resnet-164): python train_search_param164_1.py --change --data /path to your data --save log_path
 
